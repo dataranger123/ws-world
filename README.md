@@ -1,2 +1,2 @@
 # ws-world
-ws repo
+I am still trying to learn coding
